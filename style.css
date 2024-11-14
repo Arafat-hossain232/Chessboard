@@ -1,0 +1,23 @@
+#box{
+    height: 150px;
+    width: 150px;
+    background-color: burlywood;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    font-size: 80px;
+
+}
+
+#black{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+}
