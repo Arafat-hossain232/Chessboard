@@ -1,6 +1,6 @@
 #box{
-    height: 150px;
-    width: 150px;
+    height: 90px;
+    width: 90px;
     background-color: burlywood;
     border: 1px solid black;
     display: inline-block;
@@ -11,8 +11,8 @@
 }
 
 #black{
-    height: 150px;
-    width: 150px;
+    height: 90px;
+    width: 90px;
     background-color: black;
     border: 1px solid black;
     display: inline-block;
